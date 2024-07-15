@@ -5,4 +5,4 @@
 1. Git init
 
 
-2. git add
+2. git add .
